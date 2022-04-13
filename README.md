@@ -11,3 +11,6 @@ npm install -g @angular/cli
 ng serve 
 
 # irá rodar em: `http://localhost:4200/`
+
+# video demo
+https://youtu.be/1jlygogJWlc
