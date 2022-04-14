@@ -1,16 +1,26 @@
-# Instale os pacotes
+<p align="center">
+  <img src="./src/assets/gpsoft-logo-7.png" width="320" alt="Logo FortBrasil" />
+</p>
 
-npm install 
 
-# Instale o angular
+## Technologias usadas neste projeto
+<img src="./src/assets/technology.png" alt="Tecnologias usadas" /> 
 
-npm install -g @angular/cli
 
-## Rode a aplicação 
+## Objetivo da API
+Template em ReactJS para ser usado nos projetos dos Devs da FortBrasil
 
-ng serve 
+## Instalação e uso
+```bash
+$ npm install 
+$ npm install -g @angular/cli
+$ ng serve
+```
+## Para acesso à URL
+http://localhost:4200/
 
-# irá rodar em: `http://localhost:4200/`
+## Video Demo
 
-# video demo
-https://youtu.be/1jlygogJWlc
+![Video fortbrasil-template-angular](./src/assets/fortbrasil-template-angular.mp4)
+
+Não conseguiu ver? <a href="./src/assets/fortbrasil-template-angular.mp4">Clique Aqui</a>
