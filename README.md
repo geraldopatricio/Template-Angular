@@ -20,7 +20,4 @@ $ ng serve
 http://localhost:4200/
 
 ## Video Demo
-
-![Video fortbrasil-template-angular](./src/assets/fortbrasil-template-angular.mp4)
-
-Não conseguiu ver? <a href="./src/assets/fortbrasil-template-angular.mp4">Clique Aqui</a>
+<a href="https://youtu.be/1jlygogJWlc">Clique Aqui</a>
